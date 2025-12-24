@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "passive_healing",
+	"version": "${version}",
+	"name": "Passive Healing",
+	"description": "Makes passive mobs naturally regenerate health.",
+	"authors": [
+		"LaGz"
+	],
+	"license": "MIT",
+	"icon": "assets/passive_healing/icon.png",
+	"environment": "*",
+	"mixins": [
+      "passive_healing.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21"
+	}
+}
