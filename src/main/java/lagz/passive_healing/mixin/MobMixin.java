@@ -1,6 +1,6 @@
-package lagz.mixin;
+package lagz.passive_healing.mixin;
 
-import lagz.PassiveHealing;
+import lagz.passive_healing.PassiveHealing;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.Mob;

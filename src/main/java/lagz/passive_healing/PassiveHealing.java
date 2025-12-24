@@ -1,4 +1,4 @@
-package lagz;
+package lagz.passive_healing;
 
 import net.minecraft.SharedConstants;
 
